@@ -5,4 +5,5 @@ A PHP benchmark script with results insert into database. Credit to Paul Taulbor
 To insert results run ```php_bench.sql``` onto your databse and edit in the connection details (lines 441-444 bench.php).
 
 
-![PHP benchmark output][https://i.imgur.com/0Stxdr7.png]
+
+![PHP benchmark output](https://i.imgur.com/0Stxdr7.png)
